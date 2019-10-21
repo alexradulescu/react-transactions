@@ -1,0 +1,6 @@
+.modal-backdrop.fade {
+  visibility: hidden;
+}
+.modal-backdrop.fade.show {
+  visibility: visible;
+}
